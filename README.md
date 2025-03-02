@@ -72,16 +72,25 @@ Required environment variables:
 \`\`\`env
 
 KINDE_CLIENT_ID=your_kinde_client_id
+
 KINDE_CLIENT_SECRET=your_kinde_client_secret
+
 KINDE_ISSUER_URL=your_kinde_issuer_url
+
 KINDE_SITE_URL=your_site_url
+
 KINDE_POST_LOGOUT_REDIRECT_URL=your_logout_url
+
 KINDE_POST_LOGIN_REDIRECT_URL=your_login_url
 
+
 DATABASE_URL=your_database_url
+
 DIRECT_DATABASE_URL=your_direct_database_url
 
+
 NEXT_PUBLIC_GEMINI_API_KEY=your_gemini_api_key
+
 NEXT_PUBLIC_APP_URL=http://localhost:3000
 
 \`\`\`
