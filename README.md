@@ -4,8 +4,6 @@
 
 A modern AI-powered form builder application that enables users to create, customize, and share forms effortlessly. Built with cutting-edge technologies and AI integration.
 
-[![Watch the Tutorial](https://img.shields.io/badge/Watch_Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ldL2miSvZ8E)
-
 ## 🚀 Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -52,7 +50,7 @@ This AI Form Builder is a comprehensive solution that combines the power of arti
 
 1. Clone the repository
 ```bash
-git clone https://github.com/pakagronglb/ai-form-builder.git
+git clone https://github.com/mymapss/AI_Form_Builder.git
 cd ai-form-builder
 ```
 
@@ -72,6 +70,7 @@ cp .env.example .env.local
 
 Required environment variables:
 \`\`\`env
+
 KINDE_CLIENT_ID=your_kinde_client_id
 KINDE_CLIENT_SECRET=your_kinde_client_secret
 KINDE_ISSUER_URL=your_kinde_issuer_url
@@ -84,6 +83,7 @@ DIRECT_DATABASE_URL=your_direct_database_url
 
 NEXT_PUBLIC_GEMINI_API_KEY=your_gemini_api_key
 NEXT_PUBLIC_APP_URL=http://localhost:3000
+
 \`\`\`
 
 4. Initialize the database
@@ -108,14 +108,7 @@ This project is optimized for deployment on Vercel:
 
 ## 👨‍💻 Development
 
-Developed by [Pakagrong Lebel](https://github.com/PakarongLebel)
-
-## 🙏 Credits
-
-This project was built following [TechWithEmma's tutorial](https://www.youtube.com/watch?v=ldL2miSvZ8E). Special thanks to Emma for the excellent tutorial and guidance. Please support her by:
-- 👍 Liking the tutorial
-- 🔔 Subscribing to her channel
-- ⭐ Starring the original repository
+Developed by [mymapss](https://github.com/mymapss)
 
 ## 📄 License
 
@@ -123,4 +116,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Built with ❤️ by Pakagrong Lebel
+Built with ❤️ by mymapss
